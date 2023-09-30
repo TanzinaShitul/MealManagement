@@ -1,2 +1,2 @@
 # Meal_Management_Sysmtem
-this is runngin project
+this is running project
